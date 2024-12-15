@@ -26,5 +26,4 @@
 
    ## References
 
-- https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
-- https://github.com/FienSoP/canny_edge_detector
+- https://dev.to/khatrivinay/compress-images-size-with-python-4ipj
